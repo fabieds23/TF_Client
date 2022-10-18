@@ -1,13 +1,10 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="file://$PATHA$" />
+      <root url="file://$USER_HOME$/Desktop/javafx-sdk-19/lib" />
     </CLASSES>
     <JAVADOC />
-    <NATIVE>
-      <root url="file://$PATHA$" />
-    </NATIVE>
     <SOURCES />
-    <jarDirectory url="file://$PATHA$" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/Desktop/javafx-sdk-19/lib" recursive="false" />
   </library>
 </component>
