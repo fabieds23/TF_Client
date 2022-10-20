@@ -10,10 +10,10 @@
     <padding>
         <Insets bottom="20.0" left="20.0" right="20.0" top="20.0" />
     </padding>
-    <Label fx:id="servidorCliente" text="Cliente" />
+    <Label fx:id="clienteLabel" text="Cliente" />
     <Label fx:id="esperaLabelCliente" text="Esperando Servidor" />
 
     <Label fx:id="welcomeText" />
-   <TextField fx:id="textCliente" />
-    <Button fx:id="botonCliente" onAction="#onHelloButtonClick" prefHeight="43.0" prefWidth="131.0" text="Boton de Cliente" />
+   <TextField fx:id="textClient" />
+    <Button fx:id="botonClient" onAction="#onHelloButtonClick" prefHeight="43.0" prefWidth="131.0" text="Boton de Cliente" />
 </VBox>
