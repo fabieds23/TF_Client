@@ -15,5 +15,5 @@
 
     <Label fx:id="welcomeText" />
    <TextField fx:id="textClient" />
-    <Button fx:id="botonClient" onAction="#onHelloButtonClick" prefHeight="43.0" prefWidth="131.0" text="Boton de Cliente" />
+    <Button fx:id="botonClient" prefHeight="43.0" prefWidth="131.0" text="Boton de Cliente" />
 </VBox>
